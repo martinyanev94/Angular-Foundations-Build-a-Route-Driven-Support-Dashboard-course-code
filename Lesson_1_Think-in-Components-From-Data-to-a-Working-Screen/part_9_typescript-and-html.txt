@@ -1,0 +1,21 @@
+// Template change: the same status now uses a pipe
+
+<p>Status: {{ ticket.status | uppercase }}</p>
+
+
+
+// Component excerpt after declaring that dependency
+
+import { UpperCasePipe } from '@angular/common';
+
+
+
+@Component({
+
+  standalone: true,
+
+  imports: [UpperCasePipe],
+
+  templateUrl: './ticket-summary.component.html',
+
+})

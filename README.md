@@ -1,0 +1,2 @@
+# Angular-Foundations-Build-a-Route-Driven-Support-Dashboard-course-code
+Learn Angular routing and standalone components by building the architectural core of a small support dashboard. In two focused lessons, connect TypeScript data to HTML views, define explicit standalone dependencies, and coordinate list and detail screens with routes and a shared reactive data service. You’ll learn how to: - Trace a support ticket 

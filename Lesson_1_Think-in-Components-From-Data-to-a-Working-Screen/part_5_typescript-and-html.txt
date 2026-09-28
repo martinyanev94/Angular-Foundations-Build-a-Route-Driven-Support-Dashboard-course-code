@@ -1,0 +1,13 @@
+// Existing application entry path, shown as an excerpt
+
+bootstrapApplication(AppComponent);
+
+
+
+// Existing app.component.html excerpt
+
+<app-ticket-summary></app-ticket-summary>
+
+
+
+// The selector on TicketSummaryComponent matches that element
